@@ -5,4 +5,4 @@ hozzáadok még egy sort
 írom tovább
 Ezt már Github.com-ba írom
 VS code konfliktus
-ds
+Github desktop
