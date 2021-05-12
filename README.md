@@ -6,3 +6,4 @@ hozzáadok még egy sort
 Ezt már Github.com-ba írom
 VS code konfliktus
 Github desktop
+C: /Users/user/Documents/GitHub/%C3%9Aj%20mappa/index.html.html
